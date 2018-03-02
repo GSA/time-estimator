@@ -13,3 +13,6 @@ This model will train by injesting a table in tsv format.  Here is a list of pos
 | html lines  | the total number of lines written in HTML | 123 |
 | total lines | the total number of lines written across all languages | 400 |
 | duration    | this is how long it took to write the code and is called the "label" in machine learning context | 27700
+
+# links
+- 20GB+ Zip File of GitHub Repos: https://s3.amazonaws.com/vog.edoc/repos.zip
